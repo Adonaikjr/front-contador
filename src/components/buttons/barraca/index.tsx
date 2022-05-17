@@ -5,7 +5,6 @@ import iconBarraca from '../../../assets/iconsbarraca.svg'
 const Barraca = () => {
     return(
      <Container>
-       
        <img src={iconBarraca}/>
      </Container>
     )
